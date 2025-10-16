@@ -17,7 +17,7 @@ In this notebook, we are going to demonstrate how to create a transparent digita
 * Creating alpha channels
 """
 
-!git clone https://github.com/fenago/cv2
+git clone https://github.com/fenago/cv2
 
 # Commented out IPython magic to ensure Python compatibility.
 import cv2
